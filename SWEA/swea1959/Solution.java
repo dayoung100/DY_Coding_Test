@@ -1,4 +1,4 @@
-package com.swea1959;
+package swea1959;
 import java.io.FileInputStream;
 import java.util.*;
 

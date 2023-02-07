@@ -1,4 +1,4 @@
-package com.swea1209;
+package swea1209;
 
 import java.util.Scanner;
 import java.io.FileInputStream;
