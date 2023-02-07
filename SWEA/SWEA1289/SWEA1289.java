@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package SWEA1289;
 import java.util.Scanner;
 
 public class SWEA1289 {
