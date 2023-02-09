@@ -1,5 +1,3 @@
-package com.ssafy.offline03;
-
 import java.util.Scanner;
 
 public class BJ15650 {
