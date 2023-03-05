@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class BJ2798_2 {
+//baekjoon B2 2798 블랙잭
+public class BJ_B2_2798_2 {
 	
 	static int N, M;
 	static int[] numbers, inputs;

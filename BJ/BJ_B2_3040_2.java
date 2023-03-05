@@ -1,7 +1,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BJ3040_2 {
+//baekjoon B2_1244 백설 공주와 일곱 난쟁이
+public class BJ_B2_3040_2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

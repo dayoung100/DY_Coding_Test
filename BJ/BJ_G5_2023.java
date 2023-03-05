@@ -3,7 +3,8 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.Scanner;
 
-public class BJ2023 {
+//baekjoon G5 2023 신기한 소수
+public class BJ_G5_2023 {
 	
 	static int N;
 	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

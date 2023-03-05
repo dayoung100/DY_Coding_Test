@@ -1,7 +1,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BJ3040 {
+//baekjoon B2_1244 백설 공주와 일곱 난쟁이
+public class BJ_B2_3040 {
 	
 	static int[] dwarf = new int[9]; //input
 	static int[] temp_dwarf7 = new int[7]; //numbers

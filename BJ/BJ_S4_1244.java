@@ -5,7 +5,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class BJ1244 {
+//baekjoon S4_1244 스위치 켜고 끄기
+public class BJ_S4_1244 {
 	
 	static BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

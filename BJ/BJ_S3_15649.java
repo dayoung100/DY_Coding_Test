@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class BJ15649 {
+//baekjoon S3 N과 M (1)
+public class BJ_S3_15649 {
 	
 	static int N, R;
 	static int[] numbers;

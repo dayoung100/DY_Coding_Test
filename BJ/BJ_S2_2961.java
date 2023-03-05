@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class BJ2961 {
+//baekjoon S2 2961 도영이가 만든 맛있는 음식
+public class BJ_S2_2961 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

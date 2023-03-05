@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class BJ2798 {
+//baekjoon B2 2798 블랙잭
+public class BJ_B2_2798 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
