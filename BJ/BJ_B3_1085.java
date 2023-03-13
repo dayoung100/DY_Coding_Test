@@ -1,5 +1,3 @@
-package com.dy.bj;
-
 import java.util.Scanner;
 
 //baekjoon B3 1085 직사각형에서 탈출
