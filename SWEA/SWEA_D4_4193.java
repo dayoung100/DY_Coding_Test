@@ -3,7 +3,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 //swea D4 4193. 수영대회 결승전
-public class SW_D4_4193 {
+public class SWEA_D4_4193 {
 	
 	static int N, time;
 	static int[] start, end, now;

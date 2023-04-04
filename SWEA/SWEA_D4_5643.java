@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 //SWEA D4 5643. [Professional] 키 순서
-public class SW_D4_5643 {
+public class SWEA_D4_5643 {
 	
 	//이중 연결 리스트
 	static class Node {
